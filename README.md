@@ -1,1 +1,1 @@
-
+we are going to create a Next.js application and after that we will consume this api https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@nutanbhogendrasharma. This url gives us JSON data, which we are going to consume in our Next.js application.
